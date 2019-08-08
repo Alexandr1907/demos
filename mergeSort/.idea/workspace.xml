@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9eddd27-99a7-43e3-a8e6-d0e170c49640" name="Default Changelist" comment="" />
+    <list default="true" id="a9eddd27-99a7-43e3-a8e6-d0e170c49640" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +16,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/demoMerge/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
+            <state relative-caret-position="452">
               <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
             </state>
           </provider>
@@ -40,8 +42,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="481" />
-    <option name="y" value="171" />
+    <option name="x" value="230" />
+    <option name="y" value="33" />
     <option name="width" value="1397" />
     <option name="height" value="1040" />
   </component>
@@ -52,7 +54,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -76,11 +77,12 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565257300467" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MARGE_SORT" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Проганье/JavaRushTasks" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -108,10 +110,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="481" y="171" width="1397" height="1040" extended-state="0" />
-    <editor active="true" />
+    <frame x="230" y="33" width="1397" height="1040" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25355273" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26103216" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -141,7 +142,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/demoMerge/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
+        <state relative-caret-position="452">
           <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
         </state>
       </provider>
